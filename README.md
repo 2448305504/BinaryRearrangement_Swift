@@ -1,6 +1,6 @@
 # BinaryRearrangement_Swift
 使用：
-1.将BinaryRearrangement.h和BinaryRearrangement.m拖入工程\n
+1.将BinaryRearrangement.h和BinaryRearrangement.m拖入工程
 2.设置环境变量
 3.启动最早的那个ViewController的viewDidLoad里调用BinaryRearrangement().printOrderFilePath()
 4.取出 order file
