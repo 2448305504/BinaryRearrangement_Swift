@@ -1,9 +1,4 @@
-//
-//  BinaryRearrangement.m
-//  Test
-//
-//  Created by 林文俊 on 2021/8/3.
-//
+
 
 #import "BinaryRearrangement.h"
 #import <dlfcn.h>
